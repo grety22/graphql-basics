@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/grety22/graphql-basics#readme",
   "dependencies": {
+    "@types/xml2js": "^0.4.3",
     "express": "^4.16.3",
     "express-graphql": "^0.6.12",
-    "graphql": "^0.13.2"
+    "graphql": "^0.13.2",
+    "node-fetch": "^2.1.2",
+    "xml2js": "^0.4.19"
   }
 }

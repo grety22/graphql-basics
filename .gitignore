@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# goodreads keys
+key: vdA3VLehjWEF3lhXEdfzvQ
+secret: zhfWmR01lhllrEBFRApK2qzy2oqPYkdhQLBvvVQEmR4
